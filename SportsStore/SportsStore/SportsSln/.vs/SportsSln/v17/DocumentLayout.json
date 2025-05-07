@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\pages\\completed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\pages\\completed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\models\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\pages\\_cartlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\pages\\_cartlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\models\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\models\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\models\\sessioncart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\sessioncart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\views\\shared\\components\\cartsummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\shared\\components\\cartsummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\views\\shared\\components\\navigationmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\shared\\components\\navigationmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\components\\cartsummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\components\\cartsummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\infrastructure\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\infrastructure\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\views\\shared\\productsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\shared\\productsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\models\\viewmodels\\productslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\viewmodels\\productslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\infrastructure\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\infrastructure\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\infrastructure\\urlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\infrastructure\\urlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\blake russ c. piner\\desktop\\3rd year subjects\\it-intprog\\sportsstore\\sportssln\\sportsstore\\components\\navigationmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\components\\navigationmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Completed.cshtml",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Pages\\Completed.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Pages\\Completed.cshtml",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Pages\\Completed.cshtml",
+              "RelativeToolTip": "SportsStore\\Pages\\Completed.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T04:02:21.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T03:09:27.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Views\\Order\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Order\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Views\\Order\\Checkout.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Order\\Checkout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T02:19:07.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\EFOrderRepository.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\EFOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\EFOrderRepository.cs",
+              "RelativeToolTip": "SportsStore\\Models\\EFOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T03:40:14.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\IOrderRepository.cs",
+              "RelativeToolTip": "SportsStore\\Models\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T03:38:21.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\Order.cs",
+              "RelativeToolTip": "SportsStore\\Models\\Order.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:48:38.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoreDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\StoreDBContext.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\StoreDBContext.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\StoreDBContext.cs",
+              "RelativeToolTip": "SportsStore\\Models\\StoreDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T03:23:53.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T03:15:52.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Pages\\Cart.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Pages\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Pages\\Cart.cshtml",
+              "RelativeToolTip": "SportsStore\\Pages\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T20:55:28.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "SportsStore\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:56:28.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T03:05:38.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T01:21:14.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartSummaryViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Components\\CartSummaryViewComponent.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Components\\CartSummaryViewComponent.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Components\\CartSummaryViewComponent.cs",
+              "RelativeToolTip": "SportsStore\\Components\\CartSummaryViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:18:14.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SessionCart.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\SessionCart.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\SessionCart.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\SessionCart.cs",
+              "RelativeToolTip": "SportsStore\\Models\\SessionCart.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:44:32.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PageLinkTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
+              "RelativeToolTip": "SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAxwEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:45:25.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SportsStore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwCEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T03:08:39.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Views\\Shared\\ProductSummary.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Shared\\ProductSummary.cshtml",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Views\\Shared\\ProductSummary.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Shared\\ProductSummary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T20:21:55.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Views\\Shared\\Components\\NavigationMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Shared\\Components\\NavigationMenu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Views\\Shared\\Components\\NavigationMenu\\Default.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Shared\\Components\\NavigationMenu\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T22:15:38.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_CartLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Pages\\_CartLayout.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Pages\\_CartLayout.cshtml",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Pages\\_CartLayout.cshtml",
+              "RelativeToolTip": "SportsStore\\Pages\\_CartLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T22:15:04.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Program.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Program.cs",
+              "RelativeToolTip": "SportsStore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T03:33:49.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Infrastructure\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Infrastructure\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Infrastructure\\SessionExtensions.cs",
+              "RelativeToolTip": "SportsStore\\Infrastructure\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T20:49:07.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Pages\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Pages\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Pages\\Cart.cshtml.cs",
+              "RelativeToolTip": "SportsStore\\Pages\\Cart.cshtml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T21:11:56.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\Cart.cs",
+              "RelativeToolTip": "SportsStore\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T20:39:35.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UrlExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Infrastructure\\UrlExtensions.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Infrastructure\\UrlExtensions.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Infrastructure\\UrlExtensions.cs",
+              "RelativeToolTip": "SportsStore\\Infrastructure\\UrlExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T20:17:44.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NavigationMenuViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "RelativeToolTip": "SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:38:33.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductsListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
+              "RelativeToolTip": "SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:02:48.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Blake Russ C. Piner\\Desktop\\3rd Year Subjects\\IT-INTPROG\\SportsStore\\SportsSln\\SportsStore\\Models\\SeedData.cs",
+              "RelativeToolTip": "SportsStore\\Models\\SeedData.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAowFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:02:03.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
