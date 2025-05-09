@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\eleaz\\Downloads\\ELNET\\SportsStore\\SportsStore\\SportsStore\\SportsSln\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\eleaz\\downloads\\elnet\\sportsstore\\sportsstore\\sportsstore\\sportssln\\sportsstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|c:\\users\\eleaz\\downloads\\elnet\\sportsstore\\sportsstore\\sportsstore\\sportssln\\sportsstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{05130A96-302D-41DE-8764-A882C1FD84D1}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\eleaz\\Downloads\\ELNET\\SportsStore\\SportsStore\\SportsStore\\SportsSln\\SportsStore\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "SportsStore\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\eleaz\\Downloads\\ELNET\\SportsStore\\SportsStore\\SportsStore\\SportsSln\\SportsStore\\Properties\\launchSettings.json",
-              "RelativeToolTip": "SportsStore\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-07T17:02:36.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\eleaz\\Downloads\\ELNET\\SportsStore\\SportsStore\\SportsStore\\SportsSln\\SportsStore\\appsettings.json",
-              "RelativeDocumentMoniker": "SportsStore\\appsettings.json",
-              "ToolTip": "C:\\Users\\eleaz\\Downloads\\ELNET\\SportsStore\\SportsStore\\SportsStore\\SportsSln\\SportsStore\\appsettings.json",
-              "RelativeToolTip": "SportsStore\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-07T16:59:13.489Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
